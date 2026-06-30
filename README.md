@@ -46,4 +46,4 @@ This project is an IoT-based food monitoring system that detects food spoilage a
 
 ## Authors
 Luqmaan Abdi
-Saciid Abdi 
+& Saciid Abdi 
